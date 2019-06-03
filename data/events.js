@@ -1,0 +1,1 @@
+events = '[{"name": "Efrei invite Charlotte de Witte"},{"name": "Tournoi HOTS"}]';
